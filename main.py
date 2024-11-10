@@ -97,12 +97,12 @@ def stitch_images(image_folder):
 
 # List of folders to process
 folders = [
-    '/content/drive/MyDrive/ES666CV/ES666-Assignment3/Images/I1',
-    '/content/drive/MyDrive/ES666CV/ES666-Assignment3/Images/I2',
-    '/content/drive/MyDrive/ES666CV/ES666-Assignment3/Images/I3',
-    '/content/drive/MyDrive/ES666CV/ES666-Assignment3/Images/I4',
-    '/content/drive/MyDrive/ES666CV/ES666-Assignment3/Images/I5',
-    '/content/drive/MyDrive/ES666CV/ES666-Assignment3/Images/I6'
+    '/Images/I1',
+    '/Images/I2',
+    '/Images/I3',
+    '/Images/I4',
+    '/Images/I5',
+    '/Images/I6'
 ]
 
 # Process each folder and plot results
